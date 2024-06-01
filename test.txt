@@ -1,2 +1,5 @@
-fjdkasjsfskdsajas f
-fdsakjssfkldsaj
+筹码峰策略：
+1、倍量涨停
+2、寻找主力成本线
+3、回调到主力成本区出现护盘K
+4、爆量反包，收盘价附近买入
